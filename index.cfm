@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<!-- Custom Google Fonts -->
+	<link href='https://fonts.googleapis.com/css?family=Signika:400,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Kanit:400,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Work+Sans:400,700' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700' rel='stylesheet' type='text/css'>
+	
+	<!--  Favicon -->
+	<link rel="shortcut icon" href="assets/images/favicon3.ico" type="image/x-icon">
+	<link rel="icon" href="assets/images/favicon3.ico" type="image/x-icon">
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Foxtrot Yankee India specialises in building websites that best display your digital information. We plan, design, and build modern responsive websites that function on all devices, a one stop shop for your information.">
+	<meta name="author" content="">
+	<meta name="robots" content="index, follow, noimageindex">
+
+	<title>FOXTROT YANKEE iNDIA - for your information matters</title>
+
+	<!-- CSS -->
+	<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link href="assets/css/font-awesome.min.css" rel="stylesheet" media="screen">
+	<link href="assets/css/simple-line-icons.css" rel="stylesheet" media="screen">
+	<link href="assets/css/animate.css" rel="stylesheet">
+    
+	<!-- Custom styles CSS -->
+	<link href="assets/css/style.css" rel="stylesheet" media="screen">
+    
+    <script src="assets/js/modernizr.custom.js"></script>
+       
+</head>
+<body>
+
+	<!-- Preloader -->
+
+	<div id="preloader">
+		<div id="status"></div>
+	</div>
+
+	<!-- Home start -->
+
+	<section id="home" class="pfblock-image screen-height">
+        <div class="home-overlay"></div>
+		<div class="intro">
+			<!-- <div class="start">Hello, my name is John Doe and I am</div> -->
+			<!-- <h1>FOXTROT YANKEE iNDIA</h1>
+			<h1 style="font-family: 'Signika', sans-serif">FOXTROT YANKEE iNDIA</h1> -->
+			<h1 style="font-family: 'Kanit', sans-serif">FOXTROT YANKEE iNDIA</h1>
+			<!-- <h1 style="font-family: 'Work Sans', sans-serif">FOXTROT YANKEE iNDIA</h1>
+			<h1 style="font-family: 'Source Code Pro', sans-serif">FOXTROT YANKEE iNDIA</h1> -->
+			<div class="start"><span style="font-size:10px">for</span><br />your information matters</div> 
+		</div>
+
+        <a href="#services">
+		<div class="scroll-down">
+            <span>
+                <i class="fa fa-angle-down fa-2x"></i>
+            </span>
+		</div>
+        </a> 
+
+	</section>
+
+	<!-- Home end -->
+
+	<!-- Navigation start -->
+
+	<header class="header">
+
+		<nav class="navbar navbar-custom" role="navigation">
+
+			<div class="container">
+
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#custom-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="index.html">FOXTROT YANKEE iNDIA</a>
+				</div>
+
+				<div class="collapse navbar-collapse" id="custom-collapse">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="#home">Home</a></li>
+						<li><a href="#services">Services</a></li>
+                        <li><a href="#portfolio">Works</a></li>
+                        <li><a href="#skills">Skills</a></li>
+						<li><a href="#testimonials">Testimonials</a></li>
+						<li><a href="#contact">Contact</a></li>
+					</ul>
+				</div>
+
+			</div><!-- .container -->
+
+		</nav>
+
+	</header>
+
+	<!-- Navigation end -->
+
+    <!-- Services start -->
+
+	<section id="services" class="pfblock pfblock-gray">
+
+		<div class="container">
+
+			<div class="row">
+
+				<div class="col-sm-6 col-sm-offset-3">
+
+					<div class="pfblock-header wow fadeInUp">
+						<h2 class="pfblock-title">This is what I do</h2>
+						<div class="pfblock-line"></div>
+						<div class="pfblock-subtitle">
+							All your digital information needs in one place.
+						</div>
+					</div>
+
+				</div>
+
+			</div>
+
+			<div class="row">
+
+				<div class="col-sm-3">
+					<div class="iconbox wow slideInLeft">
+						<div class="iconbox-icon">
+							<span class="icon-trophy"></span>
+						</div>
+						<div class="iconbox-text">
+							<h3 class="iconbox-title">Website Design</h3>
+							<div class="iconbox-desc">
+								Beautiful hand crafted responsive designs that optimise your information for the desktop &amp; mobile devices.<br />
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-3">
+					<div class="iconbox wow slideInLeft">
+						<div class="iconbox-icon">
+							<span class="icon-wrench"></span>
+						</div>
+						<div class="iconbox-text">
+							<h3 class="iconbox-title">Content Management</h3>
+							<div class="iconbox-desc">
+								Our custom content management system (CMS) can be used to manage the information on your website that changes often.
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-3">
+					<div class="iconbox wow slideInRight">
+						<div class="iconbox-icon">
+							<i class="fa fa-paypal" aria-hidden="true"></i>
+						</div>
+						<div class="iconbox-text">
+							<h3 class="iconbox-title">PayPal</h3>
+							<div class="iconbox-desc">
+								PayPal can be integrated into your website to take payments for either a single product or large bespoke shopping baskets.
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-3">
+					<div class="iconbox wow slideInRight">
+						<div class="iconbox-icon">
+							<i class="fa fa-cloud" aria-hidden="true"></i>
+						</div>
+						<div class="iconbox-text">
+							<h3 class="iconbox-title">Website Hosting</h3>
+							<div class="iconbox-desc">
+								We offer a variety of affordable secure hosting packages and we can also help with your domain name registration and setup.
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+			<!-- .row -->
+			<div class="row">
+
+				<div class="col-sm-3">
+					<div class="iconbox wow slideInLeft">
+						<div class="iconbox-icon">
+							<i class="fa fa-search" aria-hidden="true"></i>
+						</div>
+						<div class="iconbox-text">
+							<h3 class="iconbox-title">SEO</h3>
+							<div class="iconbox-desc">
+								Website submission and search engine optimisation (SEO). Social media marketing and AdWord campains.<br />
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-3">
+					<div class="iconbox wow slideInLeft">
+						<div class="iconbox-icon">
+							<i class="fa fa-bar-chart" aria-hidden="true"></i>
+						</div>
+						<div class="iconbox-text">
+							<h3 class="iconbox-title">Google Analytics</h3>
+							<div class="iconbox-desc">
+								We can add Google Analytics to your website to measure standard metrics or track complex funnels &amp; campaigns. 
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-3">
+					<div class="iconbox wow slideInRight">
+						<div class="iconbox-icon">
+							<span class="icon-screen-smartphone"></span>
+						</div>
+						<div class="iconbox-text">
+							<h3 class="iconbox-title">SMS Gateway</h3>
+							<div class="iconbox-desc">
+								Bespoke SMS gateway solutions that enable simple information tasks and requests to be automed via inbound or outbound SMS.
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-3">
+					<div class="iconbox wow slideInRight">
+						<div class="iconbox-icon">
+							<span class="icon-camera"></span>
+						</div>
+						<div class="iconbox-text">
+							<h3 class="iconbox-title">Photography</h3>
+							<div class="iconbox-desc">
+								With over 15 years experience in freelance <a href="##" target="_blank">travel photography</a> I may be able to help with your digital photography requirements.
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div><!-- .row -->
+
+			<!-- .row -->
+			<div class="row">
+				
+				<div class="col-sm-3">
+					<div class="iconbox wow slideInRight">
+						<div class="iconbox-icon">
+							<span class="icon-magic-wand"></span>
+						</div>
+						<div class="iconbox-text">
+							<h3 class="iconbox-title">Consultation</h3>
+							<div class="iconbox-desc">
+								If you need a second opion or a third party to be involved in your digital project 
+								we can offer professional advise at a competative hourly rate. 
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-3">
+					<div class="iconbox wow slideInLeft">
+						<div class="iconbox-icon">
+							<i class="fa fa-star-o" aria-hidden="true"></i>
+							<i class="fa fa-star-o" aria-hidden="true"></i>
+							<i class="fa fa-star-o" aria-hidden="true"></i>
+						</div>
+						<div class="iconbox-text">
+							<h3 class="iconbox-title">Website Review</h3>
+							<div class="iconbox-desc">
+								Does your website work on mobile devices? Has it been optimized for search engines? Don't hesitate to <a href="#contact">contact</a> us for a comprehensive independant review. 
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-3"><!-- 
+					<div class="iconbox wow slideInRight">
+						<div class="iconbox-icon">
+							<span class="icon-screen-smartphone"></span>
+						</div>
+						<div class="iconbox-text">
+							<h3 class="iconbox-title">SMS Gateway</h3>
+							<div class="iconbox-desc">
+								Bespoke SMS gateway solutions that enable simple information tasks and requests to be automed via inbound or outbound SMS.
+							</div>
+						</div>
+					</div> -->
+				</div>
+				<div class="col-sm-3">
+					<!-- <div class="iconbox wow slideInRight">
+						<div class="iconbox-icon">
+							<span class="icon-magic-wand"></span>
+						</div>
+						<div class="iconbox-text">
+							<h3 class="iconbox-title">Consultation</h3>
+							<div class="iconbox-desc">
+								I am also available for interesting product management, business analyst, &amp; web development consulting roles.
+							</div>
+						</div>
+					</div> -->
+				</div>
+
+			</div><!-- .row -->
+
+		</div><!-- .container -->
+
+	</section>
+
+	<!-- Services end -->
+    
+	<!-- Portfolio start -->
+
+	<section id="portfolio" class="pfblock">
+		<div class="container">
+			<div class="row">
+
+				<div class="col-sm-6 col-sm-offset-3">
+
+					<div class="pfblock-header wow fadeInUp">
+						<h2 class="pfblock-title">My works</h2>
+						<div class="pfblock-line"></div>
+						<div class="pfblock-subtitle">
+							From small start ups to global brands, your information still matters.
+						</div>
+					</div>
+
+				</div>
+
+			</div><!-- .row -->
+            
+            
+            <div class="row">
+
+                <!-- Metro Pool -->
+                <div class="col-xs-12 col-sm-4 col-md-4">
+                	<a href="http://www.metropool.club" target="_blank">
+	                    <div class="grid wow zoomIn">
+	                        <figure class="effect-bubba">
+	                            <img src="assets/images/item-6.jpg" alt="Metro Pool logo"/>
+	                            <figcaption>
+	                                <!-- <h2>Don't <span>Poke</span></h2> -->
+	                                <p>The world's most technologically advanced pool management system.</p>
+	                            </figcaption>			
+	                        </figure>
+	                    </div>
+                    </a>
+                </div> 
+                <!-- ClickSend -->
+                <div class="col-xs-12 col-sm-4 col-md-4">
+            		<a href="https://www.clicksend.com/au/" target="_blank">
+	                    <div class="grid wow zoomIn">
+	                        <figure class="effect-bubba">
+	                            <img src="assets/images/item-3.jpg" alt="ClickSend logo"/>
+	                            <figcaption>
+	                                <!-- <h2>The <span>Hat</span></h2> -->
+	                                <p>Automated inbound and outbound SMS gateway integration</p>
+	                            </figcaption>
+	                        </figure>
+	                    </div>
+                    </a>
+                </div>
+                <!-- amaysim -->
+                <div class="col-xs-12 col-sm-4 col-md-4">
+            		<a href="http://www.amaysim.com.au" target="_blank">
+	                    <div class="grid wow zoomIn">
+	                        <figure class="effect-bubba">
+	                            <img src="assets/images/item-5.jpg" alt="amaysim logo"/>
+	                            <figcaption>
+	                                <!-- <h2>Crypton <span>Dude</span></h2> -->
+	                                <p>Scrum Master &amp; Lead developer at the largest MVNO in Australia</p>
+	                            </figcaption>			
+	                        </figure>
+	                    </div>
+                    </a>
+                </div>
+
+            </div>
+            <div class="row">
+
+                <!-- PayPal -->
+                <div class="col-xs-12 col-sm-4 col-md-4">
+            		<a href="https://www.paypal.com/au/webapps/mpp/home" target="_blank">
+	                    <div class="grid wow zoomIn">
+	                        <figure class="effect-bubba">
+	                            <img src="assets/images/item-4.jpg" alt="PayPal logo"/>
+	                            <figcaption>
+	                                <!-- <h2>Bang <span>Bang</span></h2> -->
+	                                <p>website PayPal payment gateway integration</p>
+	                            </figcaption>			
+	                        </figure>
+	                    </div>
+                    </a>
+                </div>
+                <!-- InComm -->
+                <div class="col-xs-12 col-sm-4 col-md-4">
+	            	<a href="http://www.incomm.com/Pages/default.aspx" target="_blank">
+	                    <div class="grid wow zoomIn">
+	                        <figure class="effect-bubba">
+	                            <img src="assets/images/item-2.jpg" alt="InComm logo"/>
+	                            <figcaption>
+	                                <!-- <h2>Funny <span>Tortoise</span></h2> -->
+	                                <p>Retail starter pack validation and redemption integration</p>
+	                            </figcaption>			
+	                        </figure>
+	                    </div>
+                    </a>
+                </div>
+                <!-- DVS -->
+                <div class="col-xs-12 col-sm-4 col-md-4">
+                    <a href="http://www.dvs.gov.au/Pages/default.aspx" target="_blank">
+	                    <div class="grid wow zoomIn">
+	                        <figure class="effect-bubba">
+	                            <img src="assets/images/item-1.jpg" alt="DVS logo"/>
+	                            <figcaption>
+	                                <!-- <h2>Crazy <span>Shark</span></h2> -->
+	                                <p>Website Document Verification System integration</p>
+	                            </figcaption>			
+	                        </figure>
+	                    </div>
+                    </a>
+                </div>
+                
+            </div>
+            <div class="row">
+
+                <!-- PayPal -->
+                <div class="col-xs-12 col-sm-4 col-md-4">
+            		<a href="https://www.homesnthings.com.au/" target="_blank">
+	                    <div class="grid wow zoomIn">
+	                        <figure class="effect-bubba">
+	                            <img src="assets/images/item-7.png" alt="HomenThings logo"/>
+	                            <figcaption>
+	                                <!-- <h2>Bang <span>Bang</span></h2> -->
+	                                <p>Technical &amp; responsive design consulting</p>
+	                            </figcaption>			
+	                        </figure>
+	                    </div>
+                    </a>
+                </div>
+
+            </div>
+
+
+		</div><!-- .contaier -->
+
+	</section>
+
+	<!-- Portfolio end -->
+    
+    <!-- Skills start -->
+    <section class="pfblock pfblock-gray" id="skills">
+		
+			<div class="container">
+			
+				<div class="row skills">
+					
+					<div class="row">
+
+                        <div class="col-sm-6 col-sm-offset-3">
+
+                            <div class="pfblock-header wow fadeInUp">
+                                <h2 class="pfblock-title">My Skills</h2>
+                                <div class="pfblock-line"></div>
+                                <!-- <div class="pfblock-subtitle">
+                                    No one lights a lamp in order to hide it behind the door: the purpose of light is to create more light, to open people’s eyes, to reveal the marvels around.
+                                </div> -->
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <!-- .row -->
+					<div class="col-sm-6 col-md-3 text-center">
+						<span data-percent="90" class="chart easyPieChart" style="width: 140px; height: 140px; line-height: 140px;">
+                            <span class="percent">90</span>
+                        </span>
+						<h3 class="text-center">Product Owner</h3>
+					</div>
+					<div class="col-sm-6 col-md-3 text-center">
+						<span data-percent="85" class="chart easyPieChart" style="width: 140px; height: 140px; line-height: 140px;">
+                            <span class="percent">85</span>
+                        </span>
+						<h3 class="text-center">Scrum Master</h3>
+					</div>
+					<div class="col-sm-6 col-md-3 text-center">
+						<span data-percent="90" class="chart easyPieChart" style="width: 140px; height: 140px; line-height: 140px;">
+                            <span class="percent">90</span>
+                        </span>
+						<h3 class="text-center">Business Analyst</h3>
+					</div>
+					<div class="col-sm-6 col-md-3 text-center">
+						<span data-percent="75" class="chart easyPieChart" style="width: 140px; height: 140px; line-height: 140px;">
+                            <span class="percent">75</span>
+                        </span>
+						<h3 class="text-center">SEO & Analytics</h3>
+					</div>
+
+                    <!-- .row -->
+					<div class="col-sm-6 col-md-3 text-center">
+						<span data-percent="95" class="chart easyPieChart" style="width: 140px; height: 140px; line-height: 140px;">
+                            <span class="percent">95</span>
+                        </span>
+						<h3 class="text-center">ColdFusion</h3>
+					</div>
+					<div class="col-sm-6 col-md-3 text-center">
+						<span data-percent="85" class="chart easyPieChart" style="width: 140px; height: 140px; line-height: 140px;">
+                            <span class="percent">85</span>
+                        </span>
+						<h3 class="text-center">jQuery</h3>
+					</div>
+					<div class="col-sm-6 col-md-3 text-center">
+						<span data-percent="85" class="chart easyPieChart" style="width: 140px; height: 140px; line-height: 140px;">
+                            <span class="percent">85</span>
+                        </span>
+						<h3 class="text-center">Bootstrap</h3>
+					</div>
+					<div class="col-sm-6 col-md-3 text-center">
+						<span data-percent="85" class="chart easyPieChart" style="width: 140px; height: 140px; line-height: 140px;">
+                            <span class="percent">85</span>
+                        </span>
+						<h3 class="text-center">UX/UI Design</h3>
+					</div>
+					
+				</div><!--End row -->
+			
+			</div>
+		
+    </section>    
+    <!-- Skills end -->
+
+	<!-- Testimonials start -->
+	<section id="testimonials" class="pfblock pfblock">
+
+		<div class="container">
+            
+            <div class="row">
+
+				<div class="col-sm-6 col-sm-offset-3">
+
+					<div class="pfblock-header wow fadeInUp">
+						<h2 class="pfblock-title">What my clients say</h2>
+						<div class="pfblock-line"></div>
+						<div class="pfblock-subtitle">
+							<!-- No one lights a lamp in order to hide it behind the door: the purpose of light is to create more light, to open people’s eyes, to reveal the marvels around. -->
+							<br /><br /><br /><br />
+						</div>
+					</div>
+
+				</div>
+
+			</div><!-- .row -->
+
+            <div class="row">
+
+			<div id="cbp-qtrotator" class="cbp-qtrotator">
+                <div class="cbp-qtcontent">
+                    <!-- <img src="assets/images/client-1.jpg" alt="client-1" /> -->
+                    <blockquote>
+                      <p>Craig is a passionate, highly skilled and versatile Web/Application Developer with an easy-going personality and infectious enthusiasm for technology. I have no hesitation in giving Craig my wholehearted endorsement.</p>
+                      <footer>Willino Mathurin @ Nucleus Central</footer>
+                    </blockquote>
+                </div>
+                <div class="cbp-qtcontent">
+                    <!-- <img src="assets/images/client-2.jpg" alt="client-2" /> -->
+                    <blockquote>
+                      <p>I worked with Craig during his time as Application Developer for Sydney Harbour Foreshore Authority. Craig had fantastic development skills and was an innovative staff member that always was willing to go that extra step for a great outcome. Craig was a fun employee to work with and a team player!</p>
+                      <footer>Alex Render @ Sydney Harbour Foreshore Authority</footer>
+                    </blockquote>
+                </div>
+                <div class="cbp-qtcontent">
+                    <!-- <img src="assets/images/client-2.jpg" alt="client-2" /> -->
+                    <blockquote>
+                      <p>Always a great team player, even now that he's on the other side of the world, Craig is still ready to lend a helping hand or share his insight. I especially appreciate his ability to translate 'techie talk' for us mere marketing mortals!</p>
+                      <footer>Jenny Kent @ Global Coal</footer>
+                    </blockquote>
+                </div>
+                <div class="cbp-qtcontent">
+                    <!-- <img src="assets/images/client-2.jpg" alt="client-2" /> -->
+                    <blockquote>
+                      <p>Not only is Craig a highly capable front and back end developer, he is also good fun. This latter facet can be invaluable when it comes to delivering more awkward projects, such as building a website with a circular interface for Tesco. I'd hire him again.</p>
+                      <footer>Sean Kelly @ Oneninety Communications Ltd</footer>
+                    </blockquote>
+                </div>
+
+
+
+            </div>		
+
+            </div><!-- .row -->
+
+					
+		</div><!-- .row -->
+	</section>
+
+	<!-- Testimonial end -->
+
+
+	<!-- Contact start -->
+
+	<section id="contact" class="pfblock pfblock-gray">
+		<div class="container">
+			<div class="row">
+
+				<div class="col-sm-6 col-sm-offset-3">
+
+					<div class="pfblock-header">
+						<h2 class="pfblock-title">Drop me a line</h2>
+						<div class="pfblock-line"></div>
+						<div class="pfblock-subtitle">
+							<!-- No one lights a lamp in order to hide it behind the door: the purpose of light is to create more light, to open people’s eyes, to reveal the marvels around. -->
+						</div>
+					</div>
+
+				</div>
+
+			</div><!-- .row -->
+
+			<div class="row">
+
+				<div class="col-sm-6 col-sm-offset-3">
+
+					<form id="contactForm" role="form">
+
+						<div class="ajax-response"><span class="errorText">&nbsp;</span></div>
+						<br />
+
+						<div class="ajax-hidden">
+							<div class="form-group wow fadeInUp">
+								<label class="sr-only" for="c_name">Name</label>
+								<input type="text" id="contactName" class="form-control contactName" name="contactName" placeholder="Name">
+							</div>
+
+							<div class="form-group wow fadeInUp" data-wow-delay=".1s">
+								<label class="sr-only" for="c_email">Email</label>
+								<input type="email" id="contactEmail" class="form-control contactEmail" name="contactEmail" placeholder="E-mail">
+							</div>
+
+							<div class="form-group wow fadeInUp" data-wow-delay=".2s">
+								<textarea class="form-control contactMessage" id="contactMessage" name="contactMessage" rows="7" placeholder="Message"></textarea>
+							</div>
+
+							<button type="button" id="sendMessageButton" class="btn btn-lg btn-block wow fadeInUp" data-wow-delay=".3s">Send Message</button>
+						</div>
+					</form>
+
+				</div>
+
+			</div><!-- .row -->
+		</div><!-- .container -->
+	</section>
+
+	<!-- Contact end -->
+
+	<!-- Footer start -->
+
+	<footer id="footer">
+		<div class="container">
+			<div class="row">
+
+				<div class="col-sm-12">
+
+					<ul class="social-links">
+						<li>
+							<a href="https://www.facebook.com/FoxtrotYankeeIndia/" target="_blank" class="wow fadeInUp"><i class="fa fa-facebook"></i></a>
+						</li>
+						<li>
+							<a href="https://twitter.com/FoxyYankyIndy" target="_blank" class="wow fadeInUp" data-wow-delay=".1s"><i class="fa fa-twitter"></i></a>
+						</li>
+						<li>
+							<a href="http://www.linkedin.com/in/craigalanriley" target="_blank" class="wow fadeInUp" data-wow-delay=".1s"><i class="fa fa-linkedin"></i></a>
+						</li>
+						<li>
+							<a href="mailto:&#105;&#110;&#102;&#111;&#064;&#102;&#111;&#120;&#116;&#114;&#111;&#116;&#121;&#097;&#110;&#107;&#101;&#101;&#105;&#110;&#100;&#105;&#097;&#046;&#099;&#111;&#109;?subject=FYI Website Enquiry" class="wow fadeInUp" data-wow-delay=".5s">
+								<i class="fa fa-envelope"></i>
+							</a>
+						</li>
+						<li>
+							<a href="tel:+61280913147" target="_blank" class="wow fadeInUp" data-wow-delay=".1s"><i class="fa fa-phone"></i></a>
+						</li>
+						<!-- <li><a href="index.html#" class="wow fadeInUp" data-wow-delay=".2s"><i class="fa fa-google-plus"></i></a></li> -->
+						<!-- <li><a href="index.html#" class="wow fadeInUp" data-wow-delay=".4s"><i class="fa fa-pinterest"></i></a></li> -->
+					</ul>
+
+					<!-- <p class="heart">
+                        Made with <span class="fa fa-heart fa-2x animated pulse"></span> in Nottingham
+                    </p> -->
+                    <p class="copyright">
+                        © 2016 Foxtrot Yankee India   |   ABN: 12 651 923816   |   All rights reserved
+					</p>
+
+				</div>
+
+			</div><!-- .row -->
+		</div><!-- .container -->
+	</footer>
+
+	<!-- Footer end -->
+
+	<!-- Scroll to top -->
+
+	<div class="scroll-up">
+		<a href="#home"><i class="fa fa-angle-up"></i></a>
+	</div>
+    
+    <!-- Scroll to top end-->
+
+	<!-- Javascript files -->
+
+	<script src="assets/js/jquery-1.11.1.min.js"></script>
+	<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+	<script src="assets/js/jquery.parallax-1.1.3.js"></script>
+	<script src="assets/js/imagesloaded.pkgd.js"></script>
+	<script src="assets/js/jquery.sticky.js"></script>
+	<script src="assets/js/smoothscroll.js"></script>
+	<script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/jquery.easypiechart.js"></script>
+    <script src="assets/js/waypoints.min.js"></script>
+    <script src="assets/js/jquery.cbpQTRotator.js"></script>
+	<script src="assets/js/custom.js"></script>
+
+    <script type="text/javascript">	
+	
+	$(function() 
+		{	
+
+		$("#sendMessageButton").click(function() 
+			{
+			var errorMessage = "";
+
+			contactName = $(".contactName").val();
+			contactEmail = $(".contactEmail").val();
+			contactMessage = $(".contactMessage").val();
+
+			console.log("contactName = " + contactName);
+			console.log("contactEmail = " + contactEmail);
+			console.log("contactMessage = " + contactMessage);
+
+			if (isValidEmail(contactEmail) == false)
+				{
+				displayErrorMessage("Please enter a valid email");
+				}
+			else if (isValidString(contactName) == false)
+				{
+				displayErrorMessage("Please enter your name");
+				}
+			else if (isValidString(contactMessage) == false)
+				{
+				displayErrorMessage("Please enter a message");
+				}
+			else{
+				processFormData(contactName,contactEmail,contactMessage);
+				};
+
+			});
+
+
+		function processFormData(contactName,contactEmail,contactMessage) 
+			{
+			// Insert Data & Send Email
+
+			$.ajax({
+				// the location of the CFC to run
+				url: "cfc/contact.cfc?method=processData"
+				// send a GET HTTP operation
+				, type: "post"
+				// tell jQuery we're getting JSON back
+				// , dataType: "json"
+				// send the data to the CFC
+				, data: {
+				    	Name: contactName,
+				    	Email: contactEmail,
+				    	msg: contactMessage
+				  		}
+				// this gets the data returned on success
+				, success: function (data)
+					{
+					// this uses the "jquery.field.min.js" library to easily populate your form with the data from the server
+					console.log("Sucess!" + data);
+
+					displayErrorMessage("Thank you");
+					
+					// $("#saveIcon"+ fixtureID).toggleClass( "fa-spin" ); 
+					
+					}
+				// this runs if an error
+				, error: function (xhr, textStatus, errorThrown)
+					{
+				    // show error
+				    console.log(errorThrown);
+				    
+				    // $("#btnSave").toggleClass( "fa-spin" ); 
+				  	}
+				});
+			};
+
+
+		function displayErrorMessage(msg) 
+			{
+			$(".errorText").text(msg);	
+			};
+
+		function isValidString(sString) 
+			{
+			if (sString.length == 0)
+				{
+				return false;
+				}
+			else{
+				return true;
+				}
+			};
+
+		function isValidEmail(sEmail) 
+			{
+			if (sEmail.length == 0)
+				{
+				return false;
+				}
+			else{
+				return true;
+				}
+			};
+			
+		}); // $ Ready End
+
+	</script>
+
+
+	<script>
+	  // GA
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-81178221-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+
+
+</body>
+</html>
