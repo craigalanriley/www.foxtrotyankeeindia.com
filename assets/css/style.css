@@ -28,6 +28,11 @@ a:hover {
 	color: #999;
 }
 
+.errorText
+	{
+	color: red;
+	}
+
 /* ---------------------------------------------- /*
  * Transition elsements
 /* ---------------------------------------------- */
@@ -343,7 +348,7 @@ textarea.form-control {
 /* ---------------------------------------------- */
 
 #home {
-	background: url(../images/cover.jpg);
+	background: url(../images/cover-stock1.jpg);
 	background-color: #222;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -387,7 +392,7 @@ textarea.form-control {
 
 .start {
 	font-family: Raleway, "Times New Roman", Times, sans-serif;
-	font-size: 16px;
+	font-size: 18px;
 	font-style: normal;
 	text-transform: none;
 	margin: 15px 0;
